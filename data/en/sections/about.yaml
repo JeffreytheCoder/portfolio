@@ -1,0 +1,48 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Computer Science student
+# your company information
+company:
+  name: UCLA
+  url: 'https://www.ucla.edu/'
+
+# your resume. this file path should be relative to you "static" directory
+resume: 'files/resume.pdf'
+
+# a summary about you
+summary: "A software engineer with a critical product mind. I'm passionate about spotting problems from people around me and building solutions that make their lives better. Skilled in full-stack development: frontend with React and Vue, backend with Express and Firebase. Keep learning and building."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+  - name: Github
+    icon: 'fab fa-github'
+    url: 'https://github.com/JeffreytheCoder'
+  - name: LinkedIn
+    icon: 'fab fa-linkedin'
+    url: 'https://www.linkedin.com/in/jeffrey-zepeng-yu/'
+  - name: Medium
+    icon: 'fab fa-medium'
+    url: 'https://jeffreyzepengyu.medium.com/'
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+  - name: Problem solving
+    percentage: 95
+    color: blue
+  - name: Teamwork
+    percentage: 90
+    color: yellow
+  - name: Critical thinking
+    percentage: 85
+    color: green

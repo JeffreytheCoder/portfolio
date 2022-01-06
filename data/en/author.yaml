@@ -1,0 +1,16 @@
+# some information about you
+name: 'Jeffrey Yu'
+nickname: 'Jeffrey'
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: 'Hi, I am'
+image: 'images/JeffreyYu.png'
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: 'jeffreyzepengyu@g.ucla.edu'
+  phone: '+12132456168'
+
+# some summary about what you do
+summary:
+  - I am a Software Engineer
+  - I love exploring frontend tech
+  - I love building fun projects
