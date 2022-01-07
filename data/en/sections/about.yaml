@@ -18,7 +18,9 @@ company:
 resume: 'files/resume.pdf'
 
 # a summary about you
-summary: "A software engineer with a critical product mind. I'm passionate about spotting problems from people around me and building solutions that make their lives better. Skilled in full-stack development: frontend with React and Vue, backend with Express and Firebase. Keep learning and building."
+summary: "A software engineer with a critical product mind. 
+I'm passionate about spotting problems from people around me and building solutions that make their lives better. 
+Skilled in full-stack development: frontend with React and Vue, backend with Express and Django. Keep learning and building."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -46,3 +48,12 @@ softSkills:
   - name: Critical thinking
     percentage: 85
     color: green
+  - name: Leadership
+    percentage: 85
+    color: orange
+  - name: Fast Learner
+    percentage: 95
+    color: sky
+  - name: Communication
+    percentage: 90
+    color: pink

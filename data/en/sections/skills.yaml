@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: JavaScript
+    logo: '/images/js-logo.png'
+    summary: 'Profound understanding of vanilla JS. Capable of working with different frameworks. Experienced in delivering '
+
+  - name: React
+    logo: '/images/react2.png'
+    summary: ''
+
+  - name: JavaScript
+    logo: '/images/vue.png'
+    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+
+  - name: Node
+    logo: '/images/node.png'
+    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+
+  - name: JavaScript
+    logo: '/images/python.png'
+    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+
+  - name: C++
+    logo: '/images/cpp.png'
+    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+
+  - name: Node
+    logo: '/images/dj.jpeg'
+    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+
+  - name: Node
+    logo: '/images/mongodb2.png'
+    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+
+  - name: Node
+    logo: '/images/firebase.png'
+    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
