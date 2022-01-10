@@ -1,6 +1,7 @@
 baseURL: http://jeffreyyu.netlify.app
 languageCode: en-us
-title: 'Jeffrey Yu Personal Website'
+title: 'Jeffrey Yu'
+description: Jeffrey Yu's Personal Website | Software Engineer.
 theme: 'toha'
 
 # Manage languages
@@ -30,6 +31,8 @@ enableEmoji: true
 
 # Site parameters
 params:
+  background: '/images/bg1.jpeg'
+
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/JeffreytheCoder/portfolio.git
   gitBranch: main
