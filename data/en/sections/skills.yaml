@@ -13,36 +13,37 @@ section:
 skills:
   - name: JavaScript
     logo: '/images/js-logo.png'
-    summary: 'Profound understanding of vanilla JS. Capable of working with different frameworks. Experienced in delivering '
+    summary: 'Proficient in JS fundamentals. Experienced in working with different frameworks and improving web app performance with the bottom-up approaches.'
 
   - name: React
     logo: '/images/react2.png'
-    summary: ''
+    summary: 'Experienced in building high-performance web app with reusable code. Capable of managing state tree with Redux and hooks. Familiar with Next.js to render web app at server-side.'
 
-  - name: JavaScript
+  - name: Vue
     logo: '/images/vue.png'
-    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+    summary: 'Experienced in delivering small-scale web app quickly. Capable of managing state tree and authorization with VueX and Vue-router. Familiar with Nuxt.js to improve web page SEO.'
 
-  - name: Node
+  - name: Node.js
     logo: '/images/node.png'
-    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+    summary: 'Experienced in developing and maintaining server-side network components with Express.js. Capable of ensuring optimal performance of the central database and responsiveness to front-end requests.'
 
-  - name: JavaScript
+  - name: Python
     logo: '/images/python.png'
-    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+    summary: 'Experienced in running large-scale web scrapers using BeautifulSoup. Experienced in solving algorithmic problems quickly by writing Pythonic snippets. Familiar with developing backend application with Django.'
 
-  - name: C++
-    logo: '/images/cpp.png'
-    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
-
-  - name: Node
-    logo: '/images/dj.jpeg'
-    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
-
-  - name: Node
+  - name: MongoDB
     logo: '/images/mongodb2.png'
-    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+    summary: 'Experienced in designing and maintaining NoSQL database instances. 
+    Capable of implementing appropriate indexes for performance improvement and writing clear documentation of database setup and architecture.'
 
-  - name: Node
-    logo: '/images/firebase.png'
-    summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+  # - name: Node
+  #   logo: '/images/dj.jpeg'
+  #   summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+
+  # - name: Node
+  #   logo: '/images/mongodb2.png'
+  #   summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
+
+  # - name: Node
+  #   logo: '/images/firebase.png'
+  #   summary: 'Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs.'
