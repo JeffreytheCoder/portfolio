@@ -1,0 +1,75 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+# buttons:
+#   - name: All
+#     filter: 'all'
+#   - name: Professional
+#     filter: 'professional'
+#   - name: Academic
+#     filter: 'academic'
+#   - name: Hobby
+#     filter: 'hobby'
+
+# your projects
+projects:
+  - name: BruinShack
+    logo: /images/bruinshack.png
+    role: Fullstack Developer
+    timeline: 'Dec 2020 - Present'
+    url: 'https://www.bruinshack.com/'
+    summary: Airbnb for UCLA students to find the best apartment near campus
+    tags: []
+
+  - name: OnCampus
+    logo: /images/oncampus.png
+    role: Fullstack Developer
+    timeline: 'Oct 2019 - Feb 2020'
+    # repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+    url: 'https://oncampus.us/' # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+    summary: The go-to website where clubs at UCLA post information and recruit new members
+    tags: []
+
+  - name: VMAwalk
+    logo: /images/vmawalk.png
+    role: Cofounder, Frontend Developer
+    timeline: 'Mar 2020 - Jun 2020'
+    # repo: https://github.com/JeffreytheCoder/vmawalk
+    url: 'https://vmawalk.com'
+    summary: Teachers & courses review websites made for VMA students
+    tags: []
+# your projects
+# projects:
+#   - name: Bruinshack
+#     logo: /images/bryuinsha.png
+#     role: Contributor
+#     timeline: 'March 2018 - Present'
+#     repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+#     #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+#     summary: Production-Grade Container Scheduling and Management.
+#     tags: ['professional', 'kubernetes', 'cloud']
+
+#   - name: Tensorflow
+#     logo: /images/sections/projects/tensorflow.png
+#     role: Developer
+#     timeline: 'Jun 2018 - Present'
+#     repo: https://github.com/tensorflow/tensorflow
+#     #url: ""
+#     summary: An Open Source Machine Learning Framework for Everyone.
+#     tags: ['professional', 'machine-learning', 'academic']
+
+#   - name: Toha
+#     logo: /images/sections/projects/toha.png
+#     role: Owner
+#     timeline: 'Jun 2019 - Present'
+#     repo: https://github.com/hossainemruz/toha
+#     summary: A Hugo theme for personal portfolio.
+#     tags: ['hobby', 'hugo', 'theme', 'professional']
